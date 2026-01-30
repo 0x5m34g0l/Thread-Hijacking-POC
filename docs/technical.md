@@ -1,4 +1,5 @@
 The technique involves:
+
 1- Opening target process with appropriate privileges
 
 2- Allocating executable memory for shellcode
